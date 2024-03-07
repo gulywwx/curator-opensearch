@@ -21,3 +21,4 @@ USER nobody:nobody
 ENV LD_LIBRARY_PATH /curator/lib:$LD_LIBRARY_PATH
 ENTRYPOINT ["/curator/curator"]
 
+
